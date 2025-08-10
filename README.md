@@ -5,13 +5,14 @@
 ## Project Overview
 
 
-- **Dataset Link:** [Global_Tech_Salary_Dataset](https://www.kaggle.com/datasets/adilshamim8/salaries-for-data-science-jobs/data)
-- **SQL Scripts:** 
+- **Dataset Link:** [Global Tech Salary Dataset](https://www.kaggle.com/datasets/adilshamim8/salaries-for-data-science-jobs/data)
+- **SQL Scripts:** [Global Tech Salary SQL Scripts](https://github.com/DQuanBui/Global_Tech_Salary/blob/main/SQL_Queries_Answers/global_tech_salary_sql_queries.sql)
+- **SQL Questions/Answers:** [Global Tech Salary SQL Questions/Answers](https://github.com/DQuanBui/Global_Tech_Salary/blob/main/SQL_Queries_Answers/GlobalTechSalary_SQL_Answers.pdf)
 - **Power BI Dashboards:** 
 
 ## Tools 
 - Language: SQL
-- Tools: MySQLWorkbench, KNIME, Power BI
+- Tools: SQL Server, KNIME, Power BI
 
 ## Dataset Overview
 

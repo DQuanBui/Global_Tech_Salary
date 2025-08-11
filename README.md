@@ -20,7 +20,15 @@
 
 
 ## Project Results
+![](https://github.com/DQuanBui/Global_Tech_Salary/blob/main/PowerBI_Results/Overview.png)
 
+![](https://github.com/DQuanBui/Global_Tech_Salary/blob/main/PowerBI_Results/Jobs.png)
+
+![](https://github.com/DQuanBui/Global_Tech_Salary/blob/main/PowerBI_Results/Salary.png)
+
+![](https://github.com/DQuanBui/Global_Tech_Salary/blob/main/PowerBI_Results/Location.png)
+
+![](https://github.com/DQuanBui/Global_Tech_Salary/blob/main/PowerBI_Results/Details.png)
 
 ## Conclusion
 
